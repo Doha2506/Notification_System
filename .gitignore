@@ -1,0 +1,6 @@
+# Visual Studio 2015
+.vs/
+.git/
+
+NotificationsSystem/bin
+NotificationsSystem/obj
